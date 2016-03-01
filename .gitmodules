@@ -1,0 +1,3 @@
+[submodule "reddit-countdown"]
+	path = reddit-countdown
+	url = https://github.com/matchu/reddit-countdown
